@@ -1,0 +1,63 @@
+body {
+    background-color: gray;
+}
+
+.aueb-title {
+    font-family: "Metal Mania";
+    font-size: 48px;
+    color : blue; 
+    font-weight: 400;
+    /* font-style: italic; */
+}
+
+/* .metal-mania-regular {
+  font-family: "Metal Mania", system-ui;
+  font-weight: 400;
+  font-style: normal;
+} */
+
+.aueb-text, .aueb-text2 {
+    background-color: green;
+}
+
+
+.courses  li {
+    color: blue;
+    list-style: none;
+}
+
+.dh > span {
+    background-color: aquamarine;
+}
+
+input[type="text"] {
+    background-color: blueviolet;
+}
+
+input[type="button"] {
+    background-color: burlywood;
+}
+
+table {
+    border-collapse: collapse;
+    width: 500px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+td {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+/* .aueb-text2 {
+    background-color: gray;
+} */
